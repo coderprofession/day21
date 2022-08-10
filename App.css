@@ -1,0 +1,14 @@
+.app {
+  background-color: aqua;
+  padding: 20px;
+}
+
+.qty {
+  width: 20px;
+  text-align: center;
+  pointer-events: none;
+  margin: 2px;
+}
+button {
+  margin: 1px;
+}
